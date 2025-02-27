@@ -25,3 +25,9 @@ Bu projede foreach döngüsü ile dizileri ve koleksiyonları daha verimli şeki
 
 ## 🛠️ Proje 8: Metotlar ile Kod Yönetimi
 Kodlarımı daha düzenli hale getirmek için metotlar oluşturdum. Parametre alan ve geriye değer döndüren fonksiyonlar yazdım. Kod tekrarını azaltarak programlarımı daha okunabilir hale getirdim.
+
+## 🗄️ Proje 9: SQL Veri Tabanı ve Tablo Oluşturma & C# Bağlantısı
+Bu projede SQL veritabanı oluşturmayı ve C# ile bağlamayı öğrendim. SQL Server Management Studio kullanarak tablolar oluşturdum ve SqlConnection ile C# uygulamasına bağladım.
+
+## 🛍️ Proje 10: C# ile SQL Listeleme, Ekleme, Güncelleme ve Silme İşlemleri
+Bu projede C# ile veritabanı işlemleri gerçekleştirdim. CRUD (Create, Read, Update, Delete) operasyonlarını SqlCommand sınıfı kullanarak yaptım. Kullanıcıların verileri ekleyip, güncelleyip silebileceği bir uygulama geliştirdim.
